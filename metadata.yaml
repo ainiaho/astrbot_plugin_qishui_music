@@ -1,0 +1,5 @@
+name: qishui_music
+author: 西南
+desc: 汽水音乐解析下载插件，支持搜索歌曲、解析分享链接、下载音频和视频
+version: v1.0.0
+repo: https://github.com/ainiaho/astrbot_plugin_qishui_music
